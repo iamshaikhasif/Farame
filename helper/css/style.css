@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+
+* {
+  font-family: "Poiret One", cursive;
+  font-weight: bold;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+li,
+p,
+a {
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+.row {
+  margin: 0;
+}
+
+
+#logo {
+  display: initial;
+  font-weight: 800;
+  font-size: 4.5rem;
+  letter-spacing: 3px;
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 2px 5px 3px #cacac6;
+  padding: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  padding-left: 1rem;
+  font-size: 1.9rem;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #98c1d9;
+}
+
+.backimage{
+    background: url(mountain3.jpg);
+    width:70%;	
+}
+
+.homeContainer{
+    text-align: center;
+    background-color: #2f2f2f;
+}
+
+.homeContainer h1{
+    font-size: 5.5rem;
+    line-height: 1.5;
+    text-shadow: 5px 4px 11px rgba(0, 0, 0, 0.26);
+    letter-spacing: 1px;
+    color: white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.bg-button {
+    background-color: #3d5a80;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 1%;
+    height: 80px;
+    width: 250px;
+}
+
+.bg-button-border{
+    background-color: #2f2f2f;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 1%;
+    height: 80px;
+    width: 250px;
+}
+
+.bg-button:hover {
+    background-color: #98c1d9;
+}
+
+.bg-button-border:hover {
+    background-color: #afafa6;
+    border-color: #afafa6;
+}
+
+.subImageContain{
+    padding-top: 5%;
+}
+
+.buttonTwo{
+    width: 100%;
+    text-align: center;
+}
+
+.category{
+    color: #3d5a80;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.category h3,h4{
+    font-weight: 800;
+}
+
+.category p{
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.learn-more{
+  font-size: 20px;
+  font-weight: 800;
+  background-color: white;
+  border: none;
+  color: #3d5a80;
+  text-align: left;
+}
+
+#featureContainer{
+  background-color: #98c1d9;
+}
+
+.main-heading{
+  font-size: 5rem;
+  color: #2f2f2f;
+  text-shadow: 2px 5px 3px white;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+}
+
+figure {
+  margin: 5rem 0;
+}
+
+figure img {
+  min-width: 100%;
+}
+
+.hero-text{
+  padding-left: 55px;
+}
+
+.hero-text h1{
+  font-size: 5rem;
+  color: #2f2f2f;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.hero-text p{
+  font-size: 2rem;
+  color: #2f2f2f;
+  letter-spacing: 1px;
+}
+
+.about-style .sub-heading,
+.service-style .sub-heading,
+.contact-style .sub-heading {
+  font-size: 2rem;
+}
+
+.horizontal-line {
+  margin: 1rem 0;
+  color: white;
+  background-color: white;
+  border: 0;
+  opacity: 1;
+}
+
+#price {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.price-card{
+  margin-left: 5.5%;
+  margin-right: 5.5%;
+}
+
+.card{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin: 20px;
+  width: 500px;
+}
+
+.card-main-heading{
+  margin-top: 25px;
+}
+
+.card-sub-heading{
+  font-size: 4rem;
+  color: #3d5a80;
+}
+
+.card-item{
+  font-size: 2rem;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #3d5a80;
+}
+
+.card-body div{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+  
